@@ -1,0 +1,15 @@
+package:
+  dependencies:
+    - console
+    - effect
+    - exceptions
+    - maybe
+    - nullable
+    - prelude
+    - typelevel-prelude
+    - unsafe-coerce
+  name: react
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 65.1.0
